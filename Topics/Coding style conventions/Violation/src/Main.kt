@@ -1,0 +1,1 @@
+fun main() { println("fun main()\n{println(\"Hello, world!\");}") }

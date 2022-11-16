@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Parking Lot/task/build/
+/Parking Lot/task/out/
+/Parking Lot/task/out/production/classes/
+/Topics/Coding style conventions/Violation/out/
+/Topics/Coding style conventions/Violation/out/production/classes/
+/Topics/Data types/Think as a compiler/out/
+/Topics/Data types/Think as a compiler/out/production/classes/
+/Topics/Overview of the basic program/Your name/out/
+/Topics/Overview of the basic program/Your name/out/production/classes/
+/Topics/Standard output/Print a triangle/out/
+/Topics/Standard output/Print a triangle/out/production/classes/
