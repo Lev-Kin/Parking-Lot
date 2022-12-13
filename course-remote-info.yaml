@@ -3,14 +3,14 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/240918/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Wed, 16 Nov 2022 08:54:48 UTC"
+update_date: "Tue, 13 Dec 2022 08:32:52 UTC"
 stages:
 - id: 416
   step: 6597
   is_completed: true
 - id: 417
   step: 6598
-  is_completed: false
+  is_completed: true
 - id: 418
   step: 6599
   is_completed: false
@@ -123,6 +123,8 @@ topics:
   - title: When expression
     theory_id: 4631
   3:
+  - title: Paradigms
+    theory_id: 15860
   - title: Declaring functions
     theory_id: 4580
   - title: Introduction to OOP

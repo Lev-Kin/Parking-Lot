@@ -4,7 +4,877 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bad000d7-3779-42aa-9f9c-64e6da50c0ae" name="Changes" comment="" />
+    <list default="true" id="bad000d7-3779-42aa-9f9c-64e6da50c0ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/classes/java/Parking_Lot.Parking_Lot-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/classes/java/Parking_Lot.Parking_Lot-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/classes/java/Parking_Lot.Parking_Lot-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/classes/kotlin/Parking_Lot.Parking_Lot-task-build-classes-kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/classes/kotlin/Parking_Lot.Parking_Lot-task-build-classes-kotlin.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/classes/kotlin/Parking_Lot.Parking_Lot-task-build-classes-kotlin.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/generated/sources/annotationProcessor/java/Parking_Lot.Parking_Lot-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/generated/sources/annotationProcessor/java/Parking_Lot.Parking_Lot-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/generated/sources/annotationProcessor/java/Parking_Lot.Parking_Lot-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/generated/sources/headers/java/Parking_Lot.Parking_Lot-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/generated/sources/headers/java/Parking_Lot.Parking_Lot-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/generated/sources/headers/java/Parking_Lot.Parking_Lot-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/reports/tests/Parking_Lot.Parking_Lot-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/reports/tests/Parking_Lot.Parking_Lot-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/reports/tests/Parking_Lot.Parking_Lot-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/test-results/Parking_Lot.Parking_Lot-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/test-results/Parking_Lot.Parking_Lot-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/test-results/Parking_Lot.Parking_Lot-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/tmp/Parking_Lot.Parking_Lot-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/tmp/Parking_Lot.Parking_Lot-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/tmp/Parking_Lot.Parking_Lot-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Comparing numbers and characters/Parking_Lot.Topics-Characters-Comparing_numbers_and_characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Comparing numbers and characters/Parking_Lot.Topics-Characters-Comparing_numbers_and_characters.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Comparing numbers and characters/Parking_Lot.Topics-Characters-Comparing_numbers_and_characters.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Previous character/Parking_Lot.Topics-Characters-Previous_character.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Previous character/Parking_Lot.Topics-Characters-Previous_character.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Previous character/Parking_Lot.Topics-Characters-Previous_character.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Sequence/Parking_Lot.Topics-Characters-Sequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Sequence/Parking_Lot.Topics-Characters-Sequence.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Sequence/Parking_Lot.Topics-Characters-Sequence.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Theory/Parking_Lot.Topics-Characters-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Theory/Parking_Lot.Topics-Characters-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Characters/Theory/Parking_Lot.Topics-Characters-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Parking_Lot.Topics-Equality-How_to_compare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Parking_Lot.Topics-Equality-How_to_compare.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Equality/How to compare/Parking_Lot.Topics-Equality-How_to_compare.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Parking_Lot.Topics-Equality-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Parking_Lot.Topics-Equality-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Parking_Lot.Topics-Equality-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Equality/True captain/Parking_Lot.Topics-Equality-True_captain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Equality/True captain/Parking_Lot.Topics-Equality-True_captain.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Equality/True captain/Parking_Lot.Topics-Equality-True_captain.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and lists/Number in a set/Parking_Lot.Topics-For_loop_and_lists-Number_in_a_set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and lists/Number in a set/Parking_Lot.Topics-For_loop_and_lists-Number_in_a_set.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and lists/Number in a set/Parking_Lot.Topics-For_loop_and_lists-Number_in_a_set.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and lists/Print all elements/Parking_Lot.Topics-For_loop_and_lists-Print_all_elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and lists/Print all elements/Parking_Lot.Topics-For_loop_and_lists-Print_all_elements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and lists/Print all elements/Parking_Lot.Topics-For_loop_and_lists-Print_all_elements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and lists/Theory/Parking_Lot.Topics-For_loop_and_lists-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and lists/Theory/Parking_Lot.Topics-For_loop_and_lists-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and lists/Theory/Parking_Lot.Topics-For_loop_and_lists-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and ranges/Fizz Buzz/Parking_Lot.Topics-For_loop_and_ranges-Fizz_Buzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and ranges/Fizz Buzz/Parking_Lot.Topics-For_loop_and_ranges-Fizz_Buzz.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and ranges/Fizz Buzz/Parking_Lot.Topics-For_loop_and_ranges-Fizz_Buzz.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and ranges/The roots of equation/Parking_Lot.Topics-For_loop_and_ranges-The_roots_of_equation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and ranges/The roots of equation/Parking_Lot.Topics-For_loop_and_ranges-The_roots_of_equation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and ranges/The roots of equation/Parking_Lot.Topics-For_loop_and_ranges-The_roots_of_equation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and ranges/Theory/Parking_Lot.Topics-For_loop_and_ranges-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and ranges/Theory/Parking_Lot.Topics-For_loop_and_ranges-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/For loop and ranges/Theory/Parking_Lot.Topics-For_loop_and_ranges-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Case insensitive/Parking_Lot.Topics-Getting_substrings-Case_insensitive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Case insensitive/Parking_Lot.Topics-Getting_substrings-Case_insensitive.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Case insensitive/Parking_Lot.Topics-Getting_substrings-Case_insensitive.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Exchange/Parking_Lot.Topics-Getting_substrings-Exchange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Exchange/Parking_Lot.Topics-Getting_substrings-Exchange.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Exchange/Parking_Lot.Topics-Getting_substrings-Exchange.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/The last of u/Parking_Lot.Topics-Getting_substrings-The_last_of_u.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/The last of u/Parking_Lot.Topics-Getting_substrings-The_last_of_u.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/The last of u/Parking_Lot.Topics-Getting_substrings-The_last_of_u.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Theory/Parking_Lot.Topics-Getting_substrings-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Theory/Parking_Lot.Topics-Getting_substrings-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Theory/Parking_Lot.Topics-Getting_substrings-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Healthy sleep/Parking_Lot.Topics-If_expression-Healthy_sleep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Healthy sleep/Parking_Lot.Topics-If_expression-Healthy_sleep.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Healthy sleep/Parking_Lot.Topics-If_expression-Healthy_sleep.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Queens/Parking_Lot.Topics-If_expression-Queens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Queens/Parking_Lot.Topics-If_expression-Queens.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Queens/Parking_Lot.Topics-If_expression-Queens.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/The max of two numbers without else-branch/Parking_Lot.Topics-If_expression-The_max_of_two_numbers_without_else-branch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/The max of two numbers without else-branch/Parking_Lot.Topics-If_expression-The_max_of_two_numbers_without_else-branch.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/The max of two numbers without else-branch/Parking_Lot.Topics-If_expression-The_max_of_two_numbers_without_else-branch.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Theory/Parking_Lot.Topics-If_expression-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Theory/Parking_Lot.Topics-If_expression-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/If expression/Theory/Parking_Lot.Topics-If_expression-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integers in action/The first digit of a two-digit number/Parking_Lot.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integers in action/The first digit of a two-digit number/Parking_Lot.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integers in action/The first digit of a two-digit number/Parking_Lot.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integers in action/Theory/Parking_Lot.Topics-Integers_in_action-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integers in action/Theory/Parking_Lot.Topics-Integers_in_action-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integers in action/Theory/Parking_Lot.Topics-Integers_in_action-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integers in action/Unsigned integers/Parking_Lot.Topics-Integers_in_action-Unsigned_integers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integers in action/Unsigned integers/Parking_Lot.Topics-Integers_in_action-Unsigned_integers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integers in action/Unsigned integers/Parking_Lot.Topics-Integers_in_action-Unsigned_integers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a list/Parking_Lot.Topics-Introduction_to_MutableList-Initializing_a_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a list/Parking_Lot.Topics-Introduction_to_MutableList-Initializing_a_list.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Initializing a list/Parking_Lot.Topics-Introduction_to_MutableList-Initializing_a_list.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Printing the last element/Parking_Lot.Topics-Introduction_to_MutableList-Printing_the_last_element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Printing the last element/Parking_Lot.Topics-Introduction_to_MutableList-Printing_the_last_element.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Printing the last element/Parking_Lot.Topics-Introduction_to_MutableList-Printing_the_last_element.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Right ways to create mutable lists/Parking_Lot.Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Right ways to create mutable lists/Parking_Lot.Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Right ways to create mutable lists/Parking_Lot.Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Theory/Parking_Lot.Topics-Introduction_to_MutableList-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Theory/Parking_Lot.Topics-Introduction_to_MutableList-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to MutableList/Theory/Parking_Lot.Topics-Introduction_to_MutableList-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Invoking functions/Parking_Lot.Topics-Invoking_functions-Invoking_functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Invoking functions/Parking_Lot.Topics-Invoking_functions-Invoking_functions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Invoking functions/Parking_Lot.Topics-Invoking_functions-Invoking_functions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Returning a result/Parking_Lot.Topics-Invoking_functions-Returning_a_result.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Returning a result/Parking_Lot.Topics-Invoking_functions-Returning_a_result.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Returning a result/Parking_Lot.Topics-Invoking_functions-Returning_a_result.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Square root/Parking_Lot.Topics-Invoking_functions-Square_root.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Square root/Parking_Lot.Topics-Invoking_functions-Square_root.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Square root/Parking_Lot.Topics-Invoking_functions-Square_root.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Theory/Parking_Lot.Topics-Invoking_functions-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Theory/Parking_Lot.Topics-Invoking_functions-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Invoking functions/Theory/Parking_Lot.Topics-Invoking_functions-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/Find a keyword/Parking_Lot.Topics-Overview_of_the_basic_program-Find_a_keyword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/Find a keyword/Parking_Lot.Topics-Overview_of_the_basic_program-Find_a_keyword.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/Find a keyword/Parking_Lot.Topics-Overview_of_the_basic_program-Find_a_keyword.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/The Hello World program/Parking_Lot.Topics-Overview_of_the_basic_program-The_Hello_World_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/The Hello World program/Parking_Lot.Topics-Overview_of_the_basic_program-The_Hello_World_program.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/The Hello World program/Parking_Lot.Topics-Overview_of_the_basic_program-The_Hello_World_program.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Determine the value/Parking_Lot.Topics-Processing_strings-Determine_the_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Determine the value/Parking_Lot.Topics-Processing_strings-Determine_the_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Determine the value/Parking_Lot.Topics-Processing_strings-Determine_the_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/The percentage of G and C characters/Parking_Lot.Topics-Processing_strings-The_percentage_of_G_and_C_characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/The percentage of G and C characters/Parking_Lot.Topics-Processing_strings-The_percentage_of_G_and_C_characters.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/The percentage of G and C characters/Parking_Lot.Topics-Processing_strings-The_percentage_of_G_and_C_characters.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Parking_Lot.Topics-Processing_strings-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Parking_Lot.Topics-Processing_strings-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Parking_Lot.Topics-Processing_strings-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/At least one/Parking_Lot.Topics-Ranges-At_least_one.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/At least one/Parking_Lot.Topics-Ranges-At_least_one.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/At least one/Parking_Lot.Topics-Ranges-At_least_one.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Check the value/Parking_Lot.Topics-Ranges-Check_the_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Check the value/Parking_Lot.Topics-Ranges-Check_the_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Check the value/Parking_Lot.Topics-Ranges-Check_the_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/How to create a range/Parking_Lot.Topics-Ranges-How_to_create_a_range.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/How to create a range/Parking_Lot.Topics-Ranges-How_to_create_a_range.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/How to create a range/Parking_Lot.Topics-Ranges-How_to_create_a_range.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Job/Parking_Lot.Topics-Ranges-Job.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Job/Parking_Lot.Topics-Ranges-Job.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Job/Parking_Lot.Topics-Ranges-Job.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Not in range/Parking_Lot.Topics-Ranges-Not_in_range.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Not in range/Parking_Lot.Topics-Ranges-Not_in_range.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Not in range/Parking_Lot.Topics-Ranges-Not_in_range.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Theory/Parking_Lot.Topics-Ranges-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Theory/Parking_Lot.Topics-Ranges-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Theory/Parking_Lot.Topics-Ranges-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Within both ranges/Parking_Lot.Topics-Ranges-Within_both_ranges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Within both ranges/Parking_Lot.Topics-Ranges-Within_both_ranges.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Ranges/Within both ranges/Parking_Lot.Topics-Ranges-Within_both_ranges.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/Fix the input/Parking_Lot.Topics-Reading_data_with_a_readln-Fix_the_input.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/Fix the input/Parking_Lot.Topics-Reading_data_with_a_readln-Fix_the_input.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/Fix the input/Parking_Lot.Topics-Reading_data_with_a_readln-Fix_the_input.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/Reversed output/Parking_Lot.Topics-Reading_data_with_a_readln-Reversed_output.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/Reversed output/Parking_Lot.Topics-Reading_data_with_a_readln-Reversed_output.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/Reversed output/Parking_Lot.Topics-Reading_data_with_a_readln-Reversed_output.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/Theory/Parking_Lot.Topics-Reading_data_with_a_readln-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/Theory/Parking_Lot.Topics-Reading_data_with_a_readln-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/Theory/Parking_Lot.Topics-Reading_data_with_a_readln-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/toDouble()/Parking_Lot.Topics-Reading_data_with_a_readln-toDouble__.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/toDouble()/Parking_Lot.Topics-Reading_data_with_a_readln-toDouble__.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Reading data with a readln/toDouble()/Parking_Lot.Topics-Reading_data_with_a_readln-toDouble__.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Are the numbers different/Parking_Lot.Topics-Relational_operators-Are_the_numbers_different.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Are the numbers different/Parking_Lot.Topics-Relational_operators-Are_the_numbers_different.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Are the numbers different/Parking_Lot.Topics-Relational_operators-Are_the_numbers_different.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value (1)/Parking_Lot.Topics-Relational_operators-Check_the_value__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value (1)/Parking_Lot.Topics-Relational_operators-Check_the_value__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value (1)/Parking_Lot.Topics-Relational_operators-Check_the_value__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value/Parking_Lot.Topics-Relational_operators-Check_the_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value/Parking_Lot.Topics-Relational_operators-Check_the_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Check the value/Parking_Lot.Topics-Relational_operators-Check_the_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Existing operators/Parking_Lot.Topics-Relational_operators-Existing_operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Existing operators/Parking_Lot.Topics-Relational_operators-Existing_operators.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Existing operators/Parking_Lot.Topics-Relational_operators-Existing_operators.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Groundhogs at the party/Parking_Lot.Topics-Relational_operators-Groundhogs_at_the_party.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Groundhogs at the party/Parking_Lot.Topics-Relational_operators-Groundhogs_at_the_party.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Groundhogs at the party/Parking_Lot.Topics-Relational_operators-Groundhogs_at_the_party.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Job offer/Parking_Lot.Topics-Relational_operators-Job_offer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Job offer/Parking_Lot.Topics-Relational_operators-Job_offer.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Job offer/Parking_Lot.Topics-Relational_operators-Job_offer.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Theory/Parking_Lot.Topics-Relational_operators-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Theory/Parking_Lot.Topics-Relational_operators-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/Theory/Parking_Lot.Topics-Relational_operators-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/When the result is true/Parking_Lot.Topics-Relational_operators-When_the_result_is_true.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/When the result is true/Parking_Lot.Topics-Relational_operators-When_the_result_is_true.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Relational operators/When the result is true/Parking_Lot.Topics-Relational_operators-When_the_result_is_true.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Grades/Parking_Lot.Topics-Repeating_blocks-Grades.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Grades/Parking_Lot.Topics-Repeating_blocks-Grades.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Grades/Parking_Lot.Topics-Repeating_blocks-Grades.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Print a string exactly ten times/Parking_Lot.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Print a string exactly ten times/Parking_Lot.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Print a string exactly ten times/Parking_Lot.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Repeat by value/Parking_Lot.Topics-Repeating_blocks-Repeat_by_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Repeat by value/Parking_Lot.Topics-Repeating_blocks-Repeat_by_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Repeat by value/Parking_Lot.Topics-Repeating_blocks-Repeat_by_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Theory/Parking_Lot.Topics-Repeating_blocks-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Theory/Parking_Lot.Topics-Repeating_blocks-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Repeating blocks/Theory/Parking_Lot.Topics-Repeating_blocks-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Printing each word in a new line/Parking_Lot.Topics-Standard_input-Printing_each_word_in_a_new_line.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Printing each word in a new line/Parking_Lot.Topics-Standard_input-Printing_each_word_in_a_new_line.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Printing each word in a new line/Parking_Lot.Topics-Standard_input-Printing_each_word_in_a_new_line.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Read and print/Parking_Lot.Topics-Standard_input-Read_and_print.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Read and print/Parking_Lot.Topics-Standard_input-Read_and_print.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Read and print/Parking_Lot.Topics-Standard_input-Read_and_print.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Scanner/Parking_Lot.Topics-Standard_input-Scanner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Scanner/Parking_Lot.Topics-Standard_input-Scanner.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Scanner/Parking_Lot.Topics-Standard_input-Scanner.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Statements/Parking_Lot.Topics-Standard_input-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Statements/Parking_Lot.Topics-Standard_input-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Statements/Parking_Lot.Topics-Standard_input-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Successful reading/Parking_Lot.Topics-Standard_input-Successful_reading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Successful reading/Parking_Lot.Topics-Standard_input-Successful_reading.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Successful reading/Parking_Lot.Topics-Standard_input-Successful_reading.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Theory/Parking_Lot.Topics-Standard_input-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Theory/Parking_Lot.Topics-Standard_input-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard input/Theory/Parking_Lot.Topics-Standard_input-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Concatenation/Parking_Lot.Topics-String_basics-Concatenation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Concatenation/Parking_Lot.Topics-String_basics-Concatenation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Concatenation/Parking_Lot.Topics-String_basics-Concatenation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Correct ways to create a string/Parking_Lot.Topics-String_basics-Correct_ways_to_create_a_string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Correct ways to create a string/Parking_Lot.Topics-String_basics-Correct_ways_to_create_a_string.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Correct ways to create a string/Parking_Lot.Topics-String_basics-Correct_ways_to_create_a_string.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/JSON/Parking_Lot.Topics-String_basics-JSON.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/JSON/Parking_Lot.Topics-String_basics-JSON.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/JSON/Parking_Lot.Topics-String_basics-JSON.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Theory/Parking_Lot.Topics-String_basics-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Theory/Parking_Lot.Topics-String_basics-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String basics/Theory/Parking_Lot.Topics-String_basics-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/How to write string templates/Parking_Lot.Topics-String_templates-How_to_write_string_templates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/How to write string templates/Parking_Lot.Topics-String_templates-How_to_write_string_templates.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/How to write string templates/Parking_Lot.Topics-String_templates-How_to_write_string_templates.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Print two numbers on the same line/Parking_Lot.Topics-String_templates-Print_two_numbers_on_the_same_line.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Print two numbers on the same line/Parking_Lot.Topics-String_templates-Print_two_numbers_on_the_same_line.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Print two numbers on the same line/Parking_Lot.Topics-String_templates-Print_two_numbers_on_the_same_line.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Repetitions and templates/Parking_Lot.Topics-String_templates-Repetitions_and_templates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Repetitions and templates/Parking_Lot.Topics-String_templates-Repetitions_and_templates.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Repetitions and templates/Parking_Lot.Topics-String_templates-Repetitions_and_templates.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/String and its Int/Parking_Lot.Topics-String_templates-String_and_its_Int.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/String and its Int/Parking_Lot.Topics-String_templates-String_and_its_Int.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/String and its Int/Parking_Lot.Topics-String_templates-String_and_its_Int.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Templates for expressions/Parking_Lot.Topics-String_templates-Templates_for_expressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Templates for expressions/Parking_Lot.Topics-String_templates-Templates_for_expressions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Templates for expressions/Parking_Lot.Topics-String_templates-Templates_for_expressions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Theory/Parking_Lot.Topics-String_templates-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Theory/Parking_Lot.Topics-String_templates-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Theory/Parking_Lot.Topics-String_templates-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/What are string templates/Parking_Lot.Topics-String_templates-What_are_string_templates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/What are string templates/Parking_Lot.Topics-String_templates-What_are_string_templates.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/String templates/What are string templates/Parking_Lot.Topics-String_templates-What_are_string_templates.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/Ranges/Parking_Lot.Topics-The_classification_of_basic_types-Ranges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/Ranges/Parking_Lot.Topics-The_classification_of_basic_types-Ranges.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/Ranges/Parking_Lot.Topics-The_classification_of_basic_types-Ranges.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/Size, min and max/Parking_Lot.Topics-The_classification_of_basic_types-Size,_min_and_max.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/Size, min and max/Parking_Lot.Topics-The_classification_of_basic_types-Size,_min_and_max.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/Size, min and max/Parking_Lot.Topics-The_classification_of_basic_types-Size,_min_and_max.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/The size of Int/Parking_Lot.Topics-The_classification_of_basic_types-The_size_of_Int.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/The size of Int/Parking_Lot.Topics-The_classification_of_basic_types-The_size_of_Int.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/The size of Int/Parking_Lot.Topics-The_classification_of_basic_types-The_size_of_Int.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/The size of Long/Parking_Lot.Topics-The_classification_of_basic_types-The_size_of_Long.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/The size of Long/Parking_Lot.Topics-The_classification_of_basic_types-The_size_of_Long.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/The size of Long/Parking_Lot.Topics-The_classification_of_basic_types-The_size_of_Long.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/Theory/Parking_Lot.Topics-The_classification_of_basic_types-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/Theory/Parking_Lot.Topics-The_classification_of_basic_types-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The classification of basic types/Theory/Parking_Lot.Topics-The_classification_of_basic_types-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Lie detector/Parking_Lot.Topics-Type_conversion-Lie_detector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Lie detector/Parking_Lot.Topics-Type_conversion-Lie_detector.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Lie detector/Parking_Lot.Topics-Type_conversion-Lie_detector.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Overflow and crash/Parking_Lot.Topics-Type_conversion-Overflow_and_crash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Overflow and crash/Parking_Lot.Topics-Type_conversion-Overflow_and_crash.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Overflow and crash/Parking_Lot.Topics-Type_conversion-Overflow_and_crash.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Program result/Parking_Lot.Topics-Type_conversion-Program_result.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Program result/Parking_Lot.Topics-Type_conversion-Program_result.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Program result/Parking_Lot.Topics-Type_conversion-Program_result.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Simple converter/Parking_Lot.Topics-Type_conversion-Simple_converter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Simple converter/Parking_Lot.Topics-Type_conversion-Simple_converter.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Simple converter/Parking_Lot.Topics-Type_conversion-Simple_converter.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Theory/Parking_Lot.Topics-Type_conversion-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Theory/Parking_Lot.Topics-Type_conversion-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Type conversion/Theory/Parking_Lot.Topics-Type_conversion-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Adding values/Parking_Lot.Topics-Work_with_MutableLists-Adding_values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Adding values/Parking_Lot.Topics-Work_with_MutableLists-Adding_values.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Adding values/Parking_Lot.Topics-Work_with_MutableLists-Adding_values.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Guard On The Gate/Parking_Lot.Topics-Work_with_MutableLists-Guard_On_The_Gate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Guard On The Gate/Parking_Lot.Topics-Work_with_MutableLists-Guard_On_The_Gate.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Guard On The Gate/Parking_Lot.Topics-Work_with_MutableLists-Guard_On_The_Gate.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Initialization/Parking_Lot.Topics-Work_with_MutableLists-Initialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Initialization/Parking_Lot.Topics-Work_with_MutableLists-Initialization.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Initialization/Parking_Lot.Topics-Work_with_MutableLists-Initialization.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Theory/Parking_Lot.Topics-Work_with_MutableLists-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Theory/Parking_Lot.Topics-Work_with_MutableLists-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Theory/Parking_Lot.Topics-Work_with_MutableLists-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Yet another list/Parking_Lot.Topics-Work_with_MutableLists-Yet_another_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Yet another list/Parking_Lot.Topics-Work_with_MutableLists-Yet_another_list.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Work with MutableLists/Yet another list/Parking_Lot.Topics-Work_with_MutableLists-Yet_another_list.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Correct operations/Parking_Lot.Topics-Working_with_strings-Correct_operations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Correct operations/Parking_Lot.Topics-Working_with_strings-Correct_operations.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Correct operations/Parking_Lot.Topics-Working_with_strings-Correct_operations.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Extraction of a character/Parking_Lot.Topics-Working_with_strings-Extraction_of_a_character.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Extraction of a character/Parking_Lot.Topics-Working_with_strings-Extraction_of_a_character.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Extraction of a character/Parking_Lot.Topics-Working_with_strings-Extraction_of_a_character.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Operations and truth/Parking_Lot.Topics-Working_with_strings-Operations_and_truth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Operations and truth/Parking_Lot.Topics-Working_with_strings-Operations_and_truth.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Operations and truth/Parking_Lot.Topics-Working_with_strings-Operations_and_truth.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/The same line/Parking_Lot.Topics-Working_with_strings-The_same_line.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/The same line/Parking_Lot.Topics-Working_with_strings-The_same_line.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/The same line/Parking_Lot.Topics-Working_with_strings-The_same_line.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Theory/Parking_Lot.Topics-Working_with_strings-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Theory/Parking_Lot.Topics-Working_with_strings-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Working with strings/Theory/Parking_Lot.Topics-Working_with_strings-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Comparing numbers and characters/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Comparing numbers and characters/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Comparing numbers and characters/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Comparing numbers and characters/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Previous character/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Previous character/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Previous character/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Previous character/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Sequence/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Sequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Characters/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/How to compare/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/How to compare/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/How to compare/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/How to compare/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/True captain/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/True captain/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/True captain/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/True captain/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Equality/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Number in a set/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Number in a set/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Number in a set/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Number in a set/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Print all elements/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Print all elements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Print all elements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Print all elements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Reverse printing/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Reverse printing/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Reverse printing/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Reverse printing/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and lists/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Fizz Buzz/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Fizz Buzz/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Fizz Buzz/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Fizz Buzz/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/For loop and ranges/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Case insensitive/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Case insensitive/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Case insensitive/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Case insensitive/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Exchange/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Exchange/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Exchange/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Exchange/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Replace substring/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Replace substring/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Replace substring/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Replace substring/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Replace/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Replace/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Replace/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Replace/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/The last of u/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/The last of u/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/The last of u/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/The last of u/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getting substrings/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Healthy sleep/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Healthy sleep/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Healthy sleep/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Healthy sleep/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Queens/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Queens/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Queens/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Queens/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/The max of two numbers without else-branch/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/The max of two numbers without else-branch/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/The max of two numbers without else-branch/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/The max of two numbers without else-branch/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/If expression/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Integer operations/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Integer operations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Integer operations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Integer operations/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/The first digit of a two-digit number/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/The first digit of a two-digit number/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/The first digit of a two-digit number/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/The first digit of a two-digit number/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Unsigned integers/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Unsigned integers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Unsigned integers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/Unsigned integers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Integers in action/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Getting an element/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Getting an element/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Getting an element/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Getting an element/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Printing the last element/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Printing the last element/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Printing the last element/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Printing the last element/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Right ways to create mutable lists/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Right ways to create mutable lists/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Right ways to create mutable lists/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Right ways to create mutable lists/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to MutableList/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Invoking functions/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Invoking functions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Invoking functions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Invoking functions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Returning a result/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Returning a result/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Returning a result/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Returning a result/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Square root/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Square root/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Square root/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Square root/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Invoking functions/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Convert a date/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Convert a date/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Convert a date/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Convert a date/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Determine the output/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Determine the output/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Determine the output/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Determine the output/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Determine the value/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Determine the value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Determine the value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Determine the value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/The percentage of G and C characters/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/The percentage of G and C characters/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/The percentage of G and C characters/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/The percentage of G and C characters/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/At least one/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/At least one/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/At least one/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/At least one/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Check the value/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Check the value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Check the value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Check the value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/How to create a range/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/How to create a range/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/How to create a range/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/How to create a range/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Job/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Job/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Job/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Job/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Not in range/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Not in range/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Not in range/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Not in range/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Within both ranges/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Within both ranges/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Within both ranges/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/Within both ranges/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Ranges/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Fix the input/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Fix the input/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Fix the input/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Fix the input/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Reversed output/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Reversed output/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Reversed output/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Reversed output/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/toDouble()/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/toDouble()/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/toDouble()/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Reading data with a readln/toDouble()/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value (1)/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Check the value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Existing operators/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Existing operators/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Existing operators/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Existing operators/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at the party/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at the party/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at the party/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at the party/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Job offer/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Job offer/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Job offer/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Job offer/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/When the result is true/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/When the result is true/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/When the result is true/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/When the result is true/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Relational operators/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Grades/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Grades/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Grades/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Grades/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Print a string exactly ten times/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Print a string exactly ten times/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Print a string exactly ten times/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Print a string exactly ten times/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Repeat by value/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Repeat by value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Repeat by value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Repeat by value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Repeating blocks/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Printing each word in a new line/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Printing each word in a new line/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Printing each word in a new line/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Printing each word in a new line/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Read and print/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Read and print/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Read and print/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Read and print/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Scanner/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Scanner/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Scanner/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Scanner/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Statements/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Successful reading/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Successful reading/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Successful reading/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Successful reading/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Standard input/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/All robots speak Kotlin/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/All robots speak Kotlin/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/All robots speak Kotlin/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/All robots speak Kotlin/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Concatenation/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Concatenation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Concatenation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Concatenation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/JSON/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/JSON/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/JSON/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/JSON/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String basics/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/How to write string templates/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/How to write string templates/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/How to write string templates/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/How to write string templates/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Repetitions and templates/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Repetitions and templates/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Repetitions and templates/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Repetitions and templates/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/String and its Int/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/String and its Int/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/String and its Int/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/String and its Int/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Templates for expressions/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Templates for expressions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Templates for expressions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Templates for expressions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/What are string templates/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/What are string templates/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/What are string templates/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/What are string templates/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/String templates/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Ranges/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Ranges/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Ranges/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Ranges/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Size, min and max/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Size, min and max/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Size, min and max/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Size, min and max/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/The size of Int/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/The size of Int/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/The size of Int/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/The size of Int/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/The size of Long/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/The size of Long/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/The size of Long/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/The size of Long/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The classification of basic types/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Lie detector/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Lie detector/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Lie detector/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Lie detector/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Overflow and crash/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Overflow and crash/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Overflow and crash/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Overflow and crash/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Program result/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Program result/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Program result/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Program result/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Simple converter/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Simple converter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Simple converter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Simple converter/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Type conversion/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Adding values/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Adding values/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Adding values/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Adding values/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Guard On The Gate/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Guard On The Gate/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Guard On The Gate/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Guard On The Gate/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Initialization/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Initialization/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Initialization/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Initialization/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Yet another list/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Yet another list/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Yet another list/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Yet another list/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Correct operations/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Correct operations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Correct operations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Correct operations/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Extraction of a character/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Extraction of a character/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Extraction of a character/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Extraction of a character/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Operations and truth/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Operations and truth/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Operations and truth/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Operations and truth/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/The same line/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/The same line/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/The same line/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/The same line/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Working with strings/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot.Parking_Lot-task.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot.Parking_Lot-task.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Coding style conventions/Options of code conventions/Parking_Lot.Topics-Coding_style_conventions-Options_of_code_conventions.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Coding style conventions/Options of code conventions/Parking_Lot.Topics-Coding_style_conventions-Options_of_code_conventions.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Coding style conventions/Theory/Parking_Lot.Topics-Coding_style_conventions-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Coding style conventions/Theory/Parking_Lot.Topics-Coding_style_conventions-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Coding style conventions/Violation/Parking_Lot.Topics-Coding_style_conventions-Violation.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Coding style conventions/Violation/Parking_Lot.Topics-Coding_style_conventions-Violation.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Comments/The forgotten comments/Parking_Lot.Topics-Comments-The_forgotten_comments.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comments/The forgotten comments/Parking_Lot.Topics-Comments-The_forgotten_comments.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Theory/Parking_Lot.Topics-Comments-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Theory/Parking_Lot.Topics-Comments-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Unused comments/Parking_Lot.Topics-Comments-Unused_comments.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Unused comments/Parking_Lot.Topics-Comments-Unused_comments.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Equivalent/Parking_Lot.Topics-Data_types-Equivalent.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Equivalent/Parking_Lot.Topics-Data_types-Equivalent.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Fix the program/Parking_Lot.Topics-Data_types-Fix_the_program.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Fix the program/Parking_Lot.Topics-Data_types-Fix_the_program.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Theory/Parking_Lot.Topics-Data_types-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Theory/Parking_Lot.Topics-Data_types-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Think as a compiler/Parking_Lot.Topics-Data_types-Think_as_a_compiler.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Think as a compiler/Parking_Lot.Topics-Data_types-Think_as_a_compiler.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Think as compiler/Parking_Lot.Topics-Data_types-Think_as_compiler.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Think as compiler/Parking_Lot.Topics-Data_types-Think_as_compiler.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Type mismatch/Parking_Lot.Topics-Data_types-Type_mismatch.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Data types/Type mismatch/Parking_Lot.Topics-Data_types-Type_mismatch.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/Multiple statements/Parking_Lot.Topics-Overview_of_the_basic_program-Multiple_statements.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/Multiple statements/Parking_Lot.Topics-Overview_of_the_basic_program-Multiple_statements.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/The eternal truth/Parking_Lot.Topics-Overview_of_the_basic_program-The_eternal_truth.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/The eternal truth/Parking_Lot.Topics-Overview_of_the_basic_program-The_eternal_truth.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/Theory/Parking_Lot.Topics-Overview_of_the_basic_program-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/Theory/Parking_Lot.Topics-Overview_of_the_basic_program-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/Your name/Parking_Lot.Topics-Overview_of_the_basic_program-Your_name.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overview of the basic program/Your name/Parking_Lot.Topics-Overview_of_the_basic_program-Your_name.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Standard output/Amount on the account/Parking_Lot.Topics-Standard_output-Amount_on_the_account.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard output/Amount on the account/Parking_Lot.Topics-Standard_output-Amount_on_the_account.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Standard output/Print a triangle/Parking_Lot.Topics-Standard_output-Print_a_triangle.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard output/Print a triangle/Parking_Lot.Topics-Standard_output-Print_a_triangle.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Standard output/Theory/Parking_Lot.Topics-Standard_output-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard output/Theory/Parking_Lot.Topics-Standard_output-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Standard output/We need to learn Kotlin/Parking_Lot.Topics-Standard_output-We_need_to_learn_Kotlin.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Standard output/We need to learn Kotlin/Parking_Lot.Topics-Standard_output-We_need_to_learn_Kotlin.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Declarations/Parking_Lot.Topics-Values_and_variables-Declarations.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Declarations/Parking_Lot.Topics-Values_and_variables-Declarations.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Fix the program/Parking_Lot.Topics-Values_and_variables-Fix_the_program.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Fix the program/Parking_Lot.Topics-Values_and_variables-Fix_the_program.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Statements/Parking_Lot.Topics-Values_and_variables-Statements.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Statements/Parking_Lot.Topics-Values_and_variables-Statements.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Theory/Parking_Lot.Topics-Values_and_variables-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/Theory/Parking_Lot.Topics-Values_and_variables-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/val or var/Parking_Lot.Topics-Values_and_variables-val_or_var.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Values and variables/val or var/Parking_Lot.Topics-Values_and_variables-val_or_var.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Parking_Lot.util.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/Parking_Lot.util.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Parking_Lot.util.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/Parking_Lot.util.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Carspotting/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Carspotting/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Carspotting/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Carspotting/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Expand and park/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Expand and park/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Expand and park/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Expand and park/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/First steps/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/First steps/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/First steps/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/First steps/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Size matters/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Size matters/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Size matters/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Size matters/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/src/parking/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/src/parking/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Coding style conventions/Options of code conventions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Coding style conventions/Options of code conventions/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Coding style conventions/Options of code conventions/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Coding style conventions/Options of code conventions/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Coding style conventions/Options of code conventions/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Coding style conventions/Options of code conventions/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Coding style conventions/Theory/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Coding style conventions/Theory/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Coding style conventions/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Coding style conventions/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Coding style conventions/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Coding style conventions/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Coding style conventions/Violation/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Coding style conventions/Violation/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Coding style conventions/Violation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Coding style conventions/Violation/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Coding style conventions/Violation/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Coding style conventions/Violation/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Coding style conventions/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Coding style conventions/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Comments/The forgotten comments/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Comments/The forgotten comments/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Comments/The forgotten comments/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Comments/The forgotten comments/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Comments/Theory/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Comments/Theory/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Comments/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Comments/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Comments/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Comments/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Comments/Unused comments/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Comments/Unused comments/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Comments/Unused comments/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Comments/Unused comments/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Comments/Unused comments/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Comments/Unused comments/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Comments/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Comments/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Equivalent/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Equivalent/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Equivalent/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Equivalent/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Fix the program/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Fix the program/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Fix the program/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Fix the program/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Theory/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Theory/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Think as a compiler/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Think as a compiler/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Think as a compiler/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Think as a compiler/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Think as compiler/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Think as compiler/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Think as compiler/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Think as compiler/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Think as compiler/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Think as compiler/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Type mismatch/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Type mismatch/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/Type mismatch/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/Type mismatch/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Data types/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Data types/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/Multiple statements/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Multiple statements/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/Multiple statements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Multiple statements/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/Your name/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Your name/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/Your name/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Your name/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overview of the basic program/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard output/Amount on the account/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard output/Amount on the account/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard output/Amount on the account/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard output/Amount on the account/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard output/Print a triangle/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard output/Print a triangle/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard output/Print a triangle/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard output/Print a triangle/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard output/Theory/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard output/Theory/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard output/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard output/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard output/We need to learn Kotlin/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard output/We need to learn Kotlin/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard output/We need to learn Kotlin/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard output/We need to learn Kotlin/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Standard output/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Standard output/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/Declarations/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/Declarations/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/Declarations/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/Declarations/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/Fix the program/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/Fix the program/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/Fix the program/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/Fix the program/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/Statements/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/Statements/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/Statements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/Statements/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/Theory/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/Theory/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/val or var/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/val or var/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Values and variables/val or var/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Values and variables/val or var/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,26 +885,55 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Parking Lot" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H4eBsUVA1qcamlJfUcuoR6damx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.Yaml.Migrate": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Zhenia",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "show.inlinked.gradle.project.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Zhenia&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;show.inlinked.gradle.project.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration default="true" type="Codeforces" factoryName="Codeforces">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,6 +958,41 @@
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
       <method v="2" />
+    </configuration>
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="Parking_Lot.Topics-Processing_strings-The_percentage_of_G_and_C_characters.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="Parking_Lot.Topics-Processing_strings-Convert_a_date.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="Parking_Lot.Topics-Getting_substrings-Theory.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (5)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="Parking_Lot.Topics-Getting_substrings-The_last_of_u.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parking.MainKt" />
+      <module name="Parking_Lot.Parking_Lot-task.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -172,6 +1106,15 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.MainKt (2)" />
+        <item itemvalue="Kotlin.MainKt (1)" />
+        <item itemvalue="Kotlin.MainKt (3)" />
+        <item itemvalue="Kotlin.MainKt (5)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -190,11 +1133,44 @@
       <workItem from="1668154088551" duration="399000" />
       <workItem from="1668415297443" duration="462000" />
       <workItem from="1668448773065" duration="10000" />
-      <workItem from="1668588862449" duration="1984000" />
+      <workItem from="1668588862449" duration="3564000" />
+      <workItem from="1668673284685" duration="1039000" />
+      <workItem from="1668689388086" duration="3000" />
+      <workItem from="1668757659812" duration="1365000" />
+      <workItem from="1668845725719" duration="3932000" />
+      <workItem from="1669017351639" duration="2720000" />
+      <workItem from="1669104923745" duration="2814000" />
+      <workItem from="1669375401603" duration="3852000" />
+      <workItem from="1669625148530" duration="3329000" />
+      <workItem from="1669712924356" duration="10583000" />
+      <workItem from="1670055275237" duration="3717000" />
+      <workItem from="1670226222452" duration="752000" />
+      <workItem from="1670402462478" duration="251000" />
+      <workItem from="1670402821877" duration="2922000" />
+      <workItem from="1670494914104" duration="1479000" />
+      <workItem from="1670501922709" duration="275000" />
+      <workItem from="1670502282736" duration="2000" />
+      <workItem from="1670502306633" duration="304000" />
+      <workItem from="1670571561778" duration="2862000" />
+      <workItem from="1670656866401" duration="2934000" />
+      <workItem from="1670660168620" duration="1184000" />
+      <workItem from="1670742930446" duration="3959000" />
+      <workItem from="1670920277694" duration="960000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
