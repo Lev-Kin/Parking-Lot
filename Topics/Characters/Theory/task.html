@@ -72,7 +72,7 @@ println('Q' != 'q') // true because capital and small letters are not the same
 println('A' &lt; 'a')  // true because capital Latin letters are placed before small ones</code></pre>
 <p>Using relational operations and codes, we can check whether a <code class="language-kotlin">Char</code> is a digit: all ten digits have codes from <code class="language-kotlin">'\u0030'</code> to <code class="language-kotlin">'\u0039'</code>.</p>
 <p>Here is a program that does it:</p>
-<pre><code class="language-kotlin">fun parking.main() {
+<pre><code class="language-kotlin">fun main() {
     val ch = readln().first()
     val isDigit = ch &gt;= '\u0030' &amp;&amp; ch &lt;= '\u0039'
 

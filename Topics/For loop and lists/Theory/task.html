@@ -7,7 +7,7 @@
 }
 </code></pre>
 <p>Suppose we have a mutable list that includes weekdays. Let's print each day of the week:</p>
-<pre><code class="language-kotlin">fun parking.main() {
+<pre><code class="language-kotlin">fun main() {
     val daysOfWeek = mutableListOf("Sun", "Mon", "Tues", "Wed", "Thur", "Fri", "Sat")
     
     for (day in daysOfWeek){
@@ -27,7 +27,7 @@ Sat
 <h5 id="iterating-by-indexes" style="text-align: center;">Iterating by indexes</h5>
 <p>It is possible to access elements by their index directly from the loop. To do that, you must use the <code class="language-kotlin">mutList.indices</code> property, which represents a range of valid <code class="language-kotlin">mutList</code> indexes.</p>
 <p>Take a look at the <code class="language-kotlin">daysOfWeek</code> mutable list:</p>
-<pre><code class="language-kotlin">fun parking.main() {
+<pre><code class="language-kotlin">fun main() {
     val daysOfWeek = mutableListOf("Sun", "Mon", "Tues", "Wed", "Thur", "Fri", "Sat")
 
     for (index in daysOfWeek.indices){
@@ -46,7 +46,7 @@ Sat
 <p>We have discussed two ways of iterating through a mutable list. They are useful when you need to process each list element. Sometimes, however, you may need to access a particular sublist. In such a case, you can specify the range of the indexes you need.</p>
 <p>The first element of a mutable list always has index 0.</p>
 <p>Take a look at the program below:</p>
-<pre><code class="language-kotlin">fun parking.main() {
+<pre><code class="language-kotlin">fun main() {
     val daysOfWeek = mutableListOf("Sun", "Mon", "Tues", "Wed", "Thur", "Fri", "Sat")
 
     for (index in 1..5) {
@@ -71,7 +71,7 @@ Sat
 5: Fri </code></pre>
 <p>If you want to iterate through a mutable list in reverse order, use <code class="language-kotlin">downTo</code> in a range. You can also specify the offset between indexes using <code class="language-kotlin">step</code>.</p>
 <p>The program below will print days in reverse order with a step of 2:</p>
-<pre><code class="language-kotlin">fun parking.main() {
+<pre><code class="language-kotlin">fun main() {
     val daysOfWeek = mutableListOf("Sun", "Mon", "Tues", "Wed", "Thur", "Fri", "Sat")
 
     for (index in daysOfWeek.lastIndex downTo 0 step 2) {
@@ -87,7 +87,7 @@ Sat
 <h5 id="reading-mutablelist-elements" style="text-align: center;">Reading MutableList elements</h5>
 <p>Some tasks require you to read mutable list elements from the input.</p>
 <p>For example, the program below reads integer numbers and prints them in reverse order.</p>
-<pre><code class="language-kotlin">fun parking.main() {
+<pre><code class="language-kotlin">fun main() {
     val size = readln().toInt()
     val mutList: MutableList&lt;Int&gt; = mutableListOf()
     for (i in 0 until size) {

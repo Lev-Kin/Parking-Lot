@@ -80,7 +80,7 @@ o
 1</code></pre>
 <h5 id="an-example-the-factorial-of-a-number" style="text-align: center;">An example: the factorial of a number</h5>
 <p>Let's write a program that calculates the factorial of a given integer number. It's a classic. The factorial of <strong>n</strong> is a product of integer numbers from 1 to <strong>n</strong> inclusive. Assumed that factorial of 0 is 1. The factorial of 1 is 1 as well.</p>
-<pre><code class="language-kotlin">fun parking.main() {
+<pre><code class="language-kotlin">fun main() {
     val n = readln().toInt()
     var result = 1 // starting value of the factorial
 
@@ -94,7 +94,7 @@ o
 <h5 id="an-example-the-multiplication-table-of-even-numbers" style="text-align: center;">An example: the multiplication table of even numbers</h5>
 <p>You can nest one <code class="language-kotlin">for</code> loop in the body of another <code class="language-kotlin">for</code> loop because loops are just regular statements. Programmers often use nested loops to process multidimensional structures like tables (matrices), data cubes, and so on.</p>
 <p>For example, the code below prints the multiplication table of even numbers from 2 to 10.</p>
-<pre><code class="language-kotlin">fun parking.main() {
+<pre><code class="language-kotlin">fun main() {
     for (i in 2..10 step 2) {
         for (j in 2..10 step 2) {
             print(i * j)
