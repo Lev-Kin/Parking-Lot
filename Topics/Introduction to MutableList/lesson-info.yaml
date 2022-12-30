@@ -4,3 +4,4 @@ content:
 - Right ways to create mutable lists
 - Printing the last element
 - Initializing a list
+- Initializing a mutable list of longs
