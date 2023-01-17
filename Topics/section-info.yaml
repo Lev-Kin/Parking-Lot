@@ -35,3 +35,16 @@ content:
 - Named arguments
 - Constructors
 - Jumps and returns
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Taming exceptions
+- Null safety
+- The try-catch statement
+- Member functions
+- The try-catch-finally statement
+- Scopes
+- Inheritance
+- Overriding functions
+- toString()
+- Data class

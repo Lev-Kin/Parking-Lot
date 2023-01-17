@@ -1,0 +1,7 @@
+content:
+- Theory
+- Room mystery
+- Client age
+- Not overridable
+- Illegal to override
+- toString() modification
